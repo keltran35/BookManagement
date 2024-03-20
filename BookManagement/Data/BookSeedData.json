@@ -1,0 +1,42 @@
+[
+    {
+        "Title": "The Hunger Games",
+        "Author": "Suzanne Collins"
+    },
+    {
+        "Title": "Harry Potter and the Order of the Phoenix",
+        "Author": "J.K. Rowling"
+    },
+    {
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen"
+    },
+    {
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee"
+    },
+    {
+        "Title": "The Book Thief",
+        "Author": "Markus Zusak"
+    },
+    {
+        "Title": "Twilight",
+        "Author": "Stephenie Meyer"
+    },
+    {
+        "Title": "Animal Farm",
+        "Author": "George Orwell"
+    },
+    {
+        "Title": "The Fault in Our Stars",
+        "Author": "John Green"
+    },
+    {
+        "Title": "The Picture of Dorian Gray",
+        "Author": "Oscar Wilde"
+    },
+    {
+        "Title": "The Giving Tree",
+        "Author": "Shel Silverstein"
+    }
+]

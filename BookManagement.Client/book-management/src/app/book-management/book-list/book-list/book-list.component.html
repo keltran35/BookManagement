@@ -1,0 +1,9 @@
+<div class="text-center mt-3">
+  <h2>List of books</h2>
+</div>
+
+<div class="container mt-3">
+  <div class="book-item" *ngFor="let book of books">
+    <p>{{ book.title }} by {{ book.author }}</p>
+  </div>
+</div>
