@@ -13,7 +13,7 @@
 1. Open your command line interface.
 2. Execute the following commands:
    ```bash
-   dotnet ef migrations add InitialCreate -o Data/Migrations
+   cd BookManagement\BookManagement
    dotnet ef database update
    dotnet run
 
@@ -26,6 +26,7 @@ The backend project will automatically run on https://localhost:5014/.
 1. Open your command line interface.
 2. Run the following command:
    ```bash
+   cd BookManagement\BookManagement.Client\book-management
    npm i
    ng serve
 
