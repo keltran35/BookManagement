@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace BookManagement.Data.Migrations
+namespace BookManagement.Infrastructure.Data.Migrations
 {
     public partial class InitialCreate : Migration
     {

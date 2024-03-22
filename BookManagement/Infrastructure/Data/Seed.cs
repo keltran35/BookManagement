@@ -3,7 +3,7 @@ using BookManagement.Core.Entities;
 using BookManagement.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace BookManagement.Data
+namespace BookManagement.Infrastructure.Data
 {
   public class Seed
   {
